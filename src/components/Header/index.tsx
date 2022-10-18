@@ -24,7 +24,7 @@ export const Header = () => (
         marginLeft: "5px",
       }}
     >
-      Codly
+      Decoddr
     </h1>
   </div>
 );
