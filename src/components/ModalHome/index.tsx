@@ -23,7 +23,7 @@ export const ModalHome = ({
             color="success"
             disableElevation
             startIcon={<PlayIcon />}
-            onClick={() => setIsOpen((prev) => !prev)}
+            onClick={() => setIsOpen((prev: boolean) => !prev)}
           >
             PLAY
           </S.Button>
