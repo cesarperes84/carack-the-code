@@ -9,7 +9,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Decoddr - Crack the code today!</title>
         <meta name="description" content="Crack the Password today!" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
       <main className={styles.main}>
         <Main />
